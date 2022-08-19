@@ -20,7 +20,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd TEXTURES\\Book Cover\\1.jpg
+map_Kd \\TEXTURES\\Book Cover\\1.jpg
 
 newmtl BookPaper
 Ns 250.000000
@@ -42,7 +42,7 @@ Ni 1.450000
 d 1.000000
 illum 2
 map_Bump C:\\Users\\yavvu\\TEXTURES\\TV Cabinet\\Wood050_2K_Normal.jpg
-map_Kd TEXTURES\\TV Cabinet\\Wood050_2K_Color.jpg
+map_Kd TEXTURES\\TV_Cabinet\\Wood050_2K_Color.jpg
 
 newmtl DVD_Player
 Ns 0.000000
@@ -198,6 +198,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 3
+map_Kd TEXTURES\\Phone\\O9SuMXNb.jpeg
+
 
 newmtl Remote
 Ns 11.111113
@@ -208,7 +210,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 1
-map_Kd TEXTURES\\Book Cover\\2.jpg
+map_Kd TEXTURES\\Book_Cover\\2.jpg
 
 newmtl Sofa
 Ns 359.999993
@@ -219,6 +221,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
+map_Kd TEXTURES\\Book_Cover\\2.jpg
 
 newmtl Soundbar_Cover
 Ns 0.000000
@@ -289,6 +292,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
+map_Kd TEXTURES\\TV Display\\cyberpunk77.jpeg
 
 newmtl Table_Drawer
 Ns 489.999983
@@ -309,7 +313,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd TEXTURES\\TV Cabinet\\Wood050_2K_Roughness.jpg
+
+map_Kd TEXTURES\\TV_Cabinet\\Wood050_2K_Roughness.jpg.001.jpg
 
 newmtl Wall
 Ns 250.000000
@@ -330,7 +335,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd Digicat Üzerine\\Digicat\\sağ.jpg
+map_Kd Threejs//assets//TEXTURES//TV Display//sağ.jpg
 
 newmtl Water
 Ns 1000.000000
@@ -382,7 +387,6 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Bump C:\\Users\\yavvu\\TEXTURES\\Indoor Plant\\leaf_normal.jpg
 map_Kd TEXTURES\\Indoor Plant\\leaf.jpg
 
 newmtl logodvd
@@ -394,6 +398,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
+
 
 newmtl moh
 Ns 199.999995
@@ -425,7 +430,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Bump C:\\Users\\yavvu\\TEXTURES\\Indoor Plant\\sand_normal.jpg
+
 map_Kd TEXTURES\\Indoor Plant\\sand.jpg
 
 newmtl stem
